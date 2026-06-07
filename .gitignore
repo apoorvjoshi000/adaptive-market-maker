@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+build/
+dist/
+
+# Generated data (reproducible via scripts/generate_data.py)
+data/*.csv
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
